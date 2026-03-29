@@ -59,7 +59,6 @@ int main() {
         if (update) {
             update();
         }
-       // if (update) penis();
 
         sleep(1);
     }
